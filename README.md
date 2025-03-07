@@ -1,5 +1,5 @@
 # PLEASE READ: This repo no longer contains the SPL program implementations
-
+update docs and add small fixes for programs soft
 This repo still exists in archived form, feel free to fork any reference
 implementations it still contains.
 
